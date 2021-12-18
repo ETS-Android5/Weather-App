@@ -30,6 +30,7 @@ from metric to imperial. When changed, the OneCall API endpoint is called again,
 ![weather1.png](https://github.com/angmadera/images/blob/main/weather1.png?raw=true) ![weather2.png](https://github.com/angmadera/images/blob/main/weather2.png?raw=true)
 
 Daily Forecast: Selecting this menu item should open the daily forecast activity (passing the daily forecast data content).
+
 ![weather2.png](https://github.com/angmadera/images/blob/main/weather3.png?raw=true)
 
 Change Location: Selecting this menu item displays an AlertDialog that allows the user to enter a new location, as shown below. Upon tapping OK, the specified location is used with a GeoCoder to get the latitude and longitude. The latitude and longitude is then used to call the OneCall API endpoint to get the new weather data.
