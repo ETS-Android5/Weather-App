@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="todo">TODO</string>
+    <string name="units_c">units_c</string>
+    <string name="weeklyWeather">weeklyWeather</string>
+    <string name="location">location</string>
+    <string name="units_f">units_f</string>
+    <string name="_8am">8am</string>
+    <string name="_1pm">1pm</string>
+    <string name="_5pm">5pm</string>
+    <string name="_11pm">11pm</string>
+    <string name="weatherimage">weatherImage</string>
+</resources>
